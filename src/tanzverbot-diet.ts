@@ -2,7 +2,7 @@ export enum Sex {
   Male = "m",
   Female = "f",
 }
-
+// TODO
 const foodNames: string[] = [
   "Kellogg's Tresor",
   "Weihenstephan Haltbare Milch",
@@ -18,6 +18,7 @@ const foodNames: string[] = [
 const foodCalories: number[] = [137, 64, 271, 40, 297, 125, 482, 835, 37, 59];
 const foodServings: number[] = [4, 8, 4, 12, 1, 6, 2, 2, 25, 20];
 
+// TODO
 export function calcDateOnDiet(
   currentWeightKg: number,
   targetWeightKg: number,
